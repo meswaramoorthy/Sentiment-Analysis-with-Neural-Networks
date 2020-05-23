@@ -1,0 +1,5 @@
+
+*.pickle
+.ipynb_checkpoints/
+data/twits.json
+data/test_twits.json
